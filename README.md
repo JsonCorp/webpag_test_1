@@ -4,6 +4,8 @@ GitHub Pages 로 배포하는 정적 웹 페이지입니다. 빌드 도구나 �
 
 **배포 주소:** https://jsoncorp.github.io/webpag_test_1/
 
+📖 **처음 하시는 분은 [GitHub Pages로 내 웹페이지 무료 배포하기](docs/blog-post.md)** 를 보세요. 저장소 생성부터 Pages 설정까지 화면 캡처와 함께 정리해 뒀습니다.
+
 ## 구조
 
 ```
